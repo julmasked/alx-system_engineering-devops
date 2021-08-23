@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1629737666,,"x"
+|2,0,1629741136,,"x"
 
 # Search String History (newest to oldest):
 ?/bin/bash
-|2,1,1629734721,47,"bin/bash"
+|2,1,1629740414,47,"bin/bash"
 
 # Expression History (newest to oldest):
 
@@ -36,36 +36,84 @@
 |3,1,36,0,1,0,1629735153,"#"
 
 # File marks:
-'0  2  25  ~/0x02-shell_redirections/17-hidethisword
-|4,48,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
-'1  2  25  ~/0x02-shell_redirections/16-whatsnext
-|4,49,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
-'2  2  22  ~/0x02-shell_redirections/15-countthatword
-|4,50,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
-'3  2  20  ~/0x02-shell_redirections/14-findthatword
-|4,51,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
-'4  2  13  ~/0x02-shell_redirections/13-unique
-|4,52,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
-'5  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,53,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
-'6  2  33  ~/0x02-shell_redirections/11-directories
-|4,54,2,33,1629735845,"~/0x02-shell_redirections/11-directories"
-'7  2  32  ~/0x02-shell_redirections/10-no_more_js
-|4,55,2,32,1629735751,"~/0x02-shell_redirections/10-no_more_js"
-'8  2  36  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,56,2,36,1629735672,"~/0x02-shell_redirections/9-duplicate_last_line"
-'9  2  22  ~/0x02-shell_redirections/8-cwd_state
-|4,57,2,22,1629735585,"~/0x02-shell_redirections/8-cwd_state"
+'0  2  2  ~/0x02-shell_redirections/21-reverse
+|4,48,2,2,1629741136,"~/0x02-shell_redirections/21-reverse"
+'1  2  32  ~/0x02-shell_redirections/18-letteronly
+|4,49,2,32,1629740870,"~/0x02-shell_redirections/18-letteronly"
+'2  2  25  ~/0x02-shell_redirections/17-hidethisword
+|4,50,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
+'3  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,51,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+'4  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,52,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+'5  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,53,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+'6  2  13  ~/0x02-shell_redirections/13-unique
+|4,54,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
+'7  2  36  ~/0x02-shell_redirections/12-newest_files
+|4,55,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
+'8  2  33  ~/0x02-shell_redirections/11-directories
+|4,56,2,33,1629735845,"~/0x02-shell_redirections/11-directories"
+'9  2  32  ~/0x02-shell_redirections/10-no_more_js
+|4,57,2,32,1629735751,"~/0x02-shell_redirections/10-no_more_js"
 
 # Jumplist (newest first):
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1629741136,"~/0x02-shell_redirections/21-reverse"
+-'  1  0  ~/0x02-shell_redirections/21-reverse
+|4,39,1,0,1629741107,"~/0x02-shell_redirections/21-reverse"
+-'  2  32  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,32,1629740870,"~/0x02-shell_redirections/18-letteronly"
+-'  2  32  ~/0x02-shell_redirections/18-letteronly
+|4,39,2,32,1629740870,"~/0x02-shell_redirections/18-letteronly"
+-'  1  0  ~/0x02-shell_redirections/18-letteronly
+|4,39,1,0,1629740392,"~/0x02-shell_redirections/18-letteronly"
+-'  1  0  ~/0x02-shell_redirections/18-letteronly
+|4,39,1,0,1629740392,"~/0x02-shell_redirections/18-letteronly"
 -'  2  25  ~/0x02-shell_redirections/17-hidethisword
 |4,39,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
+-'  2  25  ~/0x02-shell_redirections/17-hidethisword
+|4,39,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
+-'  2  25  ~/0x02-shell_redirections/17-hidethisword
+|4,39,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
+-'  2  25  ~/0x02-shell_redirections/17-hidethisword
+|4,39,2,25,1629737666,"~/0x02-shell_redirections/17-hidethisword"
+-'  1  0  ~/0x02-shell_redirections/17-hidethisword
+|4,39,1,0,1629737617,"~/0x02-shell_redirections/17-hidethisword"
+-'  1  0  ~/0x02-shell_redirections/17-hidethisword
+|4,39,1,0,1629737617,"~/0x02-shell_redirections/17-hidethisword"
+-'  1  0  ~/0x02-shell_redirections/17-hidethisword
+|4,39,1,0,1629737617,"~/0x02-shell_redirections/17-hidethisword"
 -'  1  0  ~/0x02-shell_redirections/17-hidethisword
 |4,39,1,0,1629737617,"~/0x02-shell_redirections/17-hidethisword"
 -'  2  25  ~/0x02-shell_redirections/16-whatsnext
 |4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
 -'  2  25  ~/0x02-shell_redirections/16-whatsnext
 |4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  2  25  ~/0x02-shell_redirections/16-whatsnext
+|4,39,2,25,1629737541,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
+-'  1  0  ~/0x02-shell_redirections/16-whatsnext
+|4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
 -'  1  0  ~/0x02-shell_redirections/16-whatsnext
 |4,39,1,0,1629737513,"~/0x02-shell_redirections/16-whatsnext"
 -'  1  0  ~/0x02-shell_redirections/16-whatsnext
@@ -78,6 +126,54 @@
 |4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
 -'  2  22  ~/0x02-shell_redirections/15-countthatword
 |4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  2  22  ~/0x02-shell_redirections/15-countthatword
+|4,39,2,22,1629737474,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
+-'  1  0  ~/0x02-shell_redirections/15-countthatword
+|4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
 -'  1  0  ~/0x02-shell_redirections/15-countthatword
 |4,39,1,0,1629737116,"~/0x02-shell_redirections/15-countthatword"
 -'  1  0  ~/0x02-shell_redirections/15-countthatword
@@ -102,6 +198,54 @@
 |4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
 -'  2  20  ~/0x02-shell_redirections/14-findthatword
 |4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
+-'  2  20  ~/0x02-shell_redirections/14-findthatword
+|4,39,2,20,1629736931,"~/0x02-shell_redirections/14-findthatword"
 -'  1  0  ~/0x02-shell_redirections/14-findthatword
 |4,39,1,0,1629736841,"~/0x02-shell_redirections/14-findthatword"
 -'  1  0  ~/0x02-shell_redirections/14-findthatword
@@ -114,152 +258,23 @@
 |4,39,1,0,1629736841,"~/0x02-shell_redirections/14-findthatword"
 -'  1  0  ~/0x02-shell_redirections/14-findthatword
 |4,39,1,0,1629736841,"~/0x02-shell_redirections/14-findthatword"
--'  1  0  ~/0x02-shell_redirections/14-findthatword
-|4,39,1,0,1629736841,"~/0x02-shell_redirections/14-findthatword"
--'  1  0  ~/0x02-shell_redirections/14-findthatword
-|4,39,1,0,1629736841,"~/0x02-shell_redirections/14-findthatword"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  2  13  ~/0x02-shell_redirections/13-unique
-|4,39,2,13,1629736685,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  1  0  ~/0x02-shell_redirections/13-unique
-|4,39,1,0,1629736622,"~/0x02-shell_redirections/13-unique"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  2  36  ~/0x02-shell_redirections/12-newest_files
-|4,39,2,36,1629736429,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
--'  1  0  ~/0x02-shell_redirections/12-newest_files
-|4,39,1,0,1629735934,"~/0x02-shell_redirections/12-newest_files"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02-shell_redirections/21-reverse
+	*	1629741133	0
+	"	2	2
+	^	2	3
+	.	2	0
+	+	2	0
+
+> ~/0x02-shell_redirections/18-letteronly
+	*	1629740866	0
+	"	2	32
+	^	2	33
+	.	2	33
+	+	1	11
+	+	2	33
 
 > ~/0x02-shell_redirections/17-hidethisword
 	*	1629737661	0
