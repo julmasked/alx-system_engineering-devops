@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1629372735,,"x"
+|2,0,1629726135,,"x"
 
 # Search String History (newest to oldest):
 
@@ -27,40 +27,174 @@
 	
 |3,0,0,1,1,0,1629195841,""
 ""-	CHAR	0
-	m
-|3,1,36,0,1,0,1629372722,"m"
+	d
+|3,1,36,0,1,0,1629725762,"d"
 
 # File marks:
-'0  2  5  /.git/0x01-shell_permissions/1-who_am_i
-|4,48,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
-'1  1  14  /.git/0x01-shell_permissions/README.md
-|4,49,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
-'2  1  0  ~/0x02_vi/end_of_the_line
-|4,50,1,0,1629196615,"~/0x02_vi/end_of_the_line"
-'3  1  6  ~/0x02_vi/beginning_of_the_line
-|4,51,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
-'4  1  10  ~/0x02_vi/exiting
-|4,52,1,10,1629196403,"~/0x02_vi/exiting"
-'5  1  0  ~/0x02_vi/undoing
-|4,53,1,0,1629196316,"~/0x02_vi/undoing"
-'6  1  0  ~/0x02_vi/pasting
-|4,54,1,0,1629196234,"~/0x02_vi/pasting"
-'7  1  7  ~/0x02_vi/cutting
-|4,55,1,7,1629196120,"~/0x02_vi/cutting"
-'8  1  29  ~/0x02_vi/cutting
-|4,56,1,29,1629196055,"~/0x02_vi/cutting"
-'9  1  1  ~/0x02_vi/cutting
-|4,57,1,1,1629195940,"~/0x02_vi/cutting"
+'0  1  23  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,48,1,23,1629726135,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+'1  1  10  ~/alx-system_engineering-devops/README.md
+|4,49,1,10,1629725988,"~/alx-system_engineering-devops/README.md"
+'2  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,50,2,16,1629725785,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'3  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,51,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+'4  1  14  /.git/0x01-shell_permissions/README.md
+|4,52,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+'5  1  0  ~/0x02_vi/end_of_the_line
+|4,53,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+'6  1  6  ~/0x02_vi/beginning_of_the_line
+|4,54,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+'7  1  10  ~/0x02_vi/exiting
+|4,55,1,10,1629196403,"~/0x02_vi/exiting"
+'8  1  0  ~/0x02_vi/undoing
+|4,56,1,0,1629196316,"~/0x02_vi/undoing"
+'9  1  0  ~/0x02_vi/pasting
+|4,57,1,0,1629196234,"~/0x02_vi/pasting"
 
 # Jumplist (newest first):
+-'  1  23  ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+|4,39,1,23,1629726135,"~/alx-system_engineering-devops/0x02-shell_redirections/README.md"
+-'  1  10  ~/alx-system_engineering-devops/README.md
+|4,39,1,10,1629725988,"~/alx-system_engineering-devops/README.md"
+-'  1  10  ~/alx-system_engineering-devops/README.md
+|4,39,1,10,1629725988,"~/alx-system_engineering-devops/README.md"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1629725785,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1629725785,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1629725785,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1629725785,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1629725689,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1629725689,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1629725689,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1629725689,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  2  5  /.git/0x01-shell_permissions/1-who_am_i
 |4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  2  5  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,2,5,1629372735,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
+-'  1  0  /.git/0x01-shell_permissions/1-who_am_i
+|4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
 -'  1  0  /.git/0x01-shell_permissions/1-who_am_i
 |4,39,1,0,1629372681,"/.git/0x01-shell_permissions/1-who_am_i"
 -'  1  14  /.git/0x01-shell_permissions/README.md
 |4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
 -'  1  14  /.git/0x01-shell_permissions/README.md
 |4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  14  /.git/0x01-shell_permissions/README.md
+|4,39,1,14,1629372104,"/.git/0x01-shell_permissions/README.md"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
+-'  1  0  ~/0x02_vi/end_of_the_line
+|4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
 -'  1  0  ~/0x02_vi/end_of_the_line
 |4,39,1,0,1629196615,"~/0x02_vi/end_of_the_line"
 -'  1  0  ~/0x02_vi/end_of_the_line
@@ -85,176 +219,64 @@
 |4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
 -'  1  6  ~/0x02_vi/beginning_of_the_line
 |4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  10  ~/0x02_vi/exiting
-|4,39,1,10,1629196403,"~/0x02_vi/exiting"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/undoing
-|4,39,1,0,1629196316,"~/0x02_vi/undoing"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1629196234,"~/0x02_vi/pasting"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
+-'  1  6  ~/0x02_vi/beginning_of_the_line
+|4,39,1,6,1629196526,"~/0x02_vi/beginning_of_the_line"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/README.md
+	*	1629726132	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/alx-system_engineering-devops/README.md
+	*	1629725985	0
+	"	1	10
+	^	1	11
+	.	1	9
+	+	1	9
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+	*	1629725780	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	1	11
+	+	2	16
 
 > /.git/0x01-shell_permissions/1-who_am_i
 	*	1629372730	0
