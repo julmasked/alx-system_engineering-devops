@@ -83,3 +83,28 @@ ls
 https://github.com/julmasked/alx-system_engineering-devops.git
 ls -al ~/.ssh
 exit
+ls
+cd
+ls
+cd 0x02-shell_redirections
+ls
+vim 18-letteronly
+chmod 755 18-letteronly
+vim 21-reverse
+chmod 21-reverse
+chmod 755 21-reverse
+git add --all
+git commit -m '<new >'
+git push origin master
+vim 17-hidethisword
+git add --all
+git commit =m '<new me>'
+git push origin master
+vim 17-hidethisword
+git add --all
+git commit =m '<new me>'
+chmod 755 17-hidethisword
+git add --all
+git commit =m '<new me>'
+git push origin master
+exit
